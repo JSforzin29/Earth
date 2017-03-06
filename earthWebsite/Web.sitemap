@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap>
+    <siteMapNode url="~/home.aspx" title="Home"  description="Take me Home">
+        <siteMapNode url="~/aboutUs" title="About Us"  description="What about me" />
+        <siteMapNode url="~/imageGallery" title="Image Gallery"  description="Blog time" />
+        <siteMapNode url="~/blogPage" title="Blog"  description="Whats the hap hap" />
+        <siteMapNode url="~/subscribe" title="Subscribe"  description="Join us" />
+        <siteMapNode url="~/calendarPage" title="Events"  description="Party Time" />
+        <siteMapNode url="~/donate" title="Donate"  description="please give" />
+        <siteMapNode url="~/shopping" title="Shop"  description="Buy" />
+    </siteMapNode>
+</siteMap>

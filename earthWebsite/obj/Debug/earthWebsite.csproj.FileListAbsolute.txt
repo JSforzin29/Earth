@@ -1,0 +1,121 @@
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Properties\ApplicationInsights.config
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\roslyn\csc.exe
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\roslyn\System.Collections.Immutable.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\roslyn\System.Reflection.Metadata.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\roslyn\vbc.exe
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\roslyn\VBCSCompiler.exe
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\roslyn\VBCSCompiler.exe.config
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\earthWebsite.dll.config
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\earthWebsite.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\earthWebsite.pdb
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Microsoft.AI.DependencyCollector.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Microsoft.AI.PerfCounterCollector.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Microsoft.AI.Web.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Microsoft.AI.WindowsServer.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Microsoft.ApplicationInsights.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Microsoft.AI.DependencyCollector.xml
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Microsoft.AI.Web.xml
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Microsoft.AI.WindowsServer.xml
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Microsoft.ApplicationInsights.xml
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\obj\Debug\earthWebsite.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\obj\Debug\earthWebsite.dll
+\\mac\home\documents\visual studio 2015\Projects\earthWebsite\earthWebsite\obj\Debug\earthWebsite.pdb
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\Properties\ApplicationInsights.config
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\roslyn\csc.exe
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\roslyn\vbc.exe
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\roslyn\VBCSCompiler.exe
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\earthWebsite.dll.config
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\earthWebsite.dll
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\earthWebsite.pdb
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\obj\Debug\earthWebsite.csprojResolveAssemblyReference.cache
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\obj\Debug\earthWebsite.dll
+C:\Users\moshah\Desktop\Projects\earthWebsite\earthWebsite\obj\Debug\earthWebsite.pdb
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\Properties\ApplicationInsights.config
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\roslyn\csc.exe
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\roslyn\vbc.exe
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\earthWebsite.dll.config
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\earthWebsite.dll
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\earthWebsite.pdb
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\obj\Debug\earthWebsite.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\obj\Debug\earthWebsite.dll
+\\Mac\Home\Desktop\earthWebsite\earthWebsite\obj\Debug\earthWebsite.pdb
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\Properties\ApplicationInsights.config
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\roslyn\csc.exe
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\roslyn\vbc.exe
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\earthWebsite.dll.config
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\earthWebsite.dll
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\earthWebsite.pdb
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\obj\Debug\earthWebsite.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\obj\Debug\earthWebsite.dll
+\\Mac\Home\Desktop\earthWebsiteDESK\earthWebsite\obj\Debug\earthWebsite.pdb
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\Properties\ApplicationInsights.config
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\roslyn\csc.exe
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\roslyn\vbc.exe
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\earthWebsite.dll.config
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\earthWebsite.dll
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\earthWebsite.pdb
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\obj\Debug\earthWebsite.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\obj\Debug\earthWebsite.dll
+\\Mac\Home\Desktop\earthWebsite VS\earthWebsite\obj\Debug\earthWebsite.pdb
